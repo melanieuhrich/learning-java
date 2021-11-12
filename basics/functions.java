@@ -92,8 +92,7 @@ Student.getName();
 
 
 
-// exercise
-    // Write the method printFullName of student which prints the full name of a student.
+// Write the method printFullName of student which prints the full name of a student.
 
 class Student {
     private String firstName;

@@ -84,8 +84,8 @@ boolean r3 = a.equals(b);
 
 
 
-// exercise
-    // manipulate the variables in the first section so that each if statement resolves as true
+
+// Manipulate the variables in the first section so that each if statement resolves as true
 
 public class Main {
     public static void main(String[] args) {

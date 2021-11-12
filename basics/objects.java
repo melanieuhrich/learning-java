@@ -75,8 +75,7 @@ class Point {
 
 
 
-// exercise -- 
-    // Write a new method in Point called scale, that will make the point closer by half to (0,0). So for example, point (8, 4) after scale will be (4, 2).
+// Write a new method in Point called scale, that will make the point closer by half to (0,0). So for example, point (8, 4) after scale will be (4, 2).
 
 class Point {
     private double x;
